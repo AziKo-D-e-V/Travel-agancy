@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Maldiv",
+    "prices": "120",
+    "startdate": "2023-02-07",
+    "duration": "5",
+    "createdAt": "2023-06-04T13:46:21.665Z"
+  },
+  {
+    "id": 2,
+    "name": "Dubai",
+    "prices": "2000",
+    "startdate": "2023-02-07",
+    "duration": "5",
+    "createdAt": "2023-06-04T13:47:13.960Z"
+  },
+  {
+    "id": 3,
+    "name": "Maldiv",
+    "prices": "750",
+    "startdate": "2023-02-05",
+    "duration": "5",
+    "createdAt": "2023-06-04T14:55:51.008Z"
+  }
+]
